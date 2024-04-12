@@ -1,9 +1,9 @@
 <?php
 // Conexión a la base de datos
-$servername = "localhost";
-$username = "migui";
-$password = "locote123";
-$dbname = "SafeKid";
+$servername = "189.233.144.111";
+$username = "migalv16_kidsafe";
+$password = "lokote123";
+$dbname = "migalv16_kidsafe";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
