@@ -1,9 +1,9 @@
 <?php
 // Conexión a la base de datos
-$servername = "mysql.freehostia.com";
-$username = "migalv16_kidsafe";
-$password = "lokote123";
-$dbname = "migalv16_kidsafe";
+$servername = "sql211.infinityfree.com";
+$username = "if0_36349809";
+$password = "Lokote123";
+$dbname = "if0_36349809_kidsafe";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
