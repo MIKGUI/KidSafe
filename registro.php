@@ -1,6 +1,6 @@
 <?php
 // Conexión a la base de datos
-$servername = "189.233.144.111";
+$servername = "10.123.0.211";
 $username = "migalv16_kidsafe";
 $password = "lokote123";
 $dbname = "migalv16_kidsafe";
